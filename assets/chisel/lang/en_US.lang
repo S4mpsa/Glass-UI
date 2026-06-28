@@ -1,5 +1,4 @@
-#lang-chisel
-
+#Container
 container.chisel=§7Chisel
 container.chisel.title=§7Carve blocks
 container.chisel.titleShort=§7Carve

@@ -1,7 +1,5 @@
-#lang-avaritia
-
+# Misc
 container.neutron_collector=§7Neutron Collector
 container.neutronium_compressor=§7Neutronium Compressor
 
-# Botania Lexicon
-avaritia.lexicon.soarleander=§7Soarleander
+avaritia.lexicon.soarleander=§0Soarleander

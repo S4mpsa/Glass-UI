@@ -1,4 +1,5 @@
-# Gui
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
 gui.message.out.name=§7Van
 gui.message.in.name=§7U
 gui.message.status.name=§7Status
@@ -51,7 +52,24 @@ gui.message.prelaunch=§7Popis prije-pokretanja
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-# Cotnainers
+gui.button.enableseal.name=§7Uključi Djeljenje Zraka
+gui.button.disableseal.name=§7Isključi Djeljenje Zraka
+gui.button.loaditems.name=§7Stavi Stvari
+gui.button.stoploading.name=§7Zaustavi
+gui.button.unloaditems.name=§7Uzmi Stvari
+gui.button.stopunloading.name=§7Zaustavi
+gui.button.createsstation.name=§7Svemirska Stanica
+gui.button.sendtodim.name=§7Pošalji u Dimenziju
+gui.button.rename.name=§7Preimenovati
+gui.button.loadfuel.name=§7Puni Gorivo
+gui.button.refine.name=§7Refiniraj
+gui.button.stoprefine.name=§7Prestani Refinirati
+gui.button.enable.name=§7Uključi
+gui.button.disable.name=§7Isključi
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
 container.cargoloader.name=§7Utovarivač Tereta
 container.cargounloader.name=§7Istovarivač Tereta
 container.fuelloader.name=§7Utovarivač Goriva
@@ -90,32 +108,33 @@ gui.oxygenUse.desc=§7Kisik se koristi
 
 gui.message.generating.name=§7Generiram
 
-gui.status.collecting.name=&#999999Skupljam
-gui.status.generating.name=&#999999Generiram
-gui.status.notGenerating.name=&#999999Ne Generiram
-gui.status.hullHeat.name=&#999999Pregirjavanje
+gui.status.collecting.name=§7Skupljam
+gui.status.generating.name=§7Generiram
+gui.status.notGenerating.name=§7Ne Generiram
+gui.status.hullHeat.name=§7Pregirjavanje
 
 gui.title.airLock.name=§7%s's Kontroler Zračne Komore
 
-gui.status.unknown.name=§7Nepoznato
+gui.status.unknown.name=§dNepoznato
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Vanzemaljski Seljanin
+entity.GalacticraftCore.Buggy.name=§7Rover
+entity.GalacticraftCore.EvolvedCreeper.name=§7Evoulirani Kriper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Evoulirani Kostur
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Evoulirani Kralj Kostura
+entity.GalacticraftCore.EvolvedSpider.name=§7Evoulirani Pauk
+entity.GalacticraftCore.EvolvedZombie.name=§7Evoulirani Zombi
+entity.GalacticraftCore.Flag.name=§7Zastava
+entity.GalacticraftCore.GCFlag.name=§7Zastava
+entity.GalacticraftCore.GravityArrow.name=§7Strijela
+entity.GalacticraftCore.Lander.name=§7Svemirski Slijetač
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
+entity.GalacticraftCore.OxygenBubble.name=§7Zračni Balon
+entity.GalacticraftCore.ParaChest.name=§7PadoŠkrinja
+entity.GalacticraftCore.Spaceship.name=§7Raketa Ranga 1
 
 schematic.moonbuggy.name=§7Mjesečev Rover
 schematic.rocketT1.name=§7Raketa Ranga 1
-
-# Button
-# gui.button.enableseal.name=§7Enable Seal
-# gui.button.disableseal.name=§7Disable Seal
-# gui.button.loaditems.name=§7Load Items
-# gui.button.stoploading.name=§7Stop Loading
-# gui.button.unloaditems.name=§7Unload Items
-# gui.button.stopunloading.name=§7Stop Unloading
-# gui.button.createsstation.name=§7Create Space Station
-# gui.button.sendtodim.name=§7Send to Dimension
-# gui.button.rename.name=§7Rename
-# gui.button.loadfuel.name=§7Load Fuel
-# gui.button.refine.name=§7Refine
-# gui.button.stoprefine.name=§7Stop Refining
-# gui.button.enable.name=§7Enable
-# gui.button.disable.name=§7Disable
-# gui.button.hideDest.name=§7Hide
-# gui.button.unhideDest.name=§7Unhide
+schematic.rocketT2.name=§7Raketa Ranga 2

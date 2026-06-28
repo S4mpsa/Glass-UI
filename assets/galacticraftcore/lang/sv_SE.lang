@@ -1,4 +1,5 @@
-# Gui
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
 gui.message.out.name=§7Ut
 gui.message.in.name=§7In
 gui.message.status.name=§7Läge
@@ -51,7 +52,24 @@ gui.message.prelaunch=§7Startchecklista
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-# Cotnainers
+gui.button.enableseal.name=§7Starta
+gui.button.disableseal.name=§7Stäng av
+gui.button.loaditems.name=§7Lasta
+gui.button.stoploading.name=§7Stäng av
+gui.button.unloaditems.name=§7Lasta ur
+gui.button.stopunloading.name=§7Stäng av
+gui.button.createsstation.name=§7Skapa rymdstation
+gui.button.sendtodim.name=§7Skicka till dimension
+gui.button.rename.name=§7Byt namn
+gui.button.loadfuel.name=§7Tanka
+gui.button.refine.name=§7Arbetar
+gui.button.stoprefine.name=§7Stäng av
+gui.button.enable.name=§7Starta
+gui.button.disable.name=§7Stäng av
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
 container.cargoloader.name=§7Pålastare
 container.cargounloader.name=§7Urlastare
 container.fuelloader.name=§7Bränslepump
@@ -90,32 +108,33 @@ gui.oxygenUse.desc=§7Syrgasåtgång
 
 gui.message.generating.name=§7Effekt
 
-gui.status.collecting.name=&#999999Utvinner
-gui.status.generating.name=&#999999Alstrar
-gui.status.notGenerating.name=&#999999Inaktiv
-gui.status.hullHeat.name=&#999999Temperatur
+gui.status.collecting.name=§7Utvinner
+gui.status.generating.name=§7Alstrar
+gui.status.notGenerating.name=§7Inaktiv
+gui.status.hullHeat.name=§7Temperatur
 
 gui.title.airLock.name=§7%s's luftslusskontroll
 
-gui.status.unknown.name=§7Okänd
+gui.status.unknown.name=§dOkänd
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Utomjordisk bybo
+entity.GalacticraftCore.Buggy.name=§7Månbil
+entity.GalacticraftCore.EvolvedCreeper.name=§7Rymdsmygare
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Rymdskelett
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Månhålehärskare
+entity.GalacticraftCore.EvolvedSpider.name=§7Rymdspindel
+entity.GalacticraftCore.EvolvedZombie.name=§7Rymdzombie
+entity.GalacticraftCore.Flag.name=§7Flagga
+entity.GalacticraftCore.GCFlag.name=§7Flagga
+entity.GalacticraftCore.GravityArrow.name=§7Pil
+entity.GalacticraftCore.Lander.name=§7Månlandare
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteorsten
+entity.GalacticraftCore.OxygenBubble.name=§7Luftbubbla
+entity.GalacticraftCore.ParaChest.name=§7Fallskärmskista
+entity.GalacticraftCore.Spaceship.name=§7Rymdskepp
 
 schematic.moonbuggy.name=§7Månbil
 schematic.rocketT1.name=§7N1-raket
-
-# Button
-# gui.button.enableseal.name=§7Enable Seal
-# gui.button.disableseal.name=§7Disable Seal
-# gui.button.loaditems.name=§7Load Items
-# gui.button.stoploading.name=§7Stop Loading
-# gui.button.unloaditems.name=§7Unload Items
-# gui.button.stopunloading.name=§7Stop Unloading
-# gui.button.createsstation.name=§7Create Space Station
-# gui.button.sendtodim.name=§7Send to Dimension
-# gui.button.rename.name=§7Rename
-# gui.button.loadfuel.name=§7Load Fuel
-# gui.button.refine.name=§7Refine
-# gui.button.stoprefine.name=§7Stop Refining
-# gui.button.enable.name=§7Enable
-# gui.button.disable.name=§7Disable
-# gui.button.hideDest.name=§7Hide
-# gui.button.unhideDest.name=§7Unhide
+schematic.rocketT2.name=§7N2-raket

@@ -1,3 +1,7 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Montazni stroj na voziky
 gui.SC2:basicAssembleInstruction=§7Ke startu sestavovani voziku, pridejte telo voziku dle vaseho vyberu do slotu na tela voziku.
@@ -13,10 +17,12 @@ gui.SC2:idleAssemblerMessage=§7Stoj na montaz voziku nyni nepracuje
 gui.SC2:modifyCart=§7Upravit vozik
 gui.SC2:assembleCart=§7Sestavit vozik
 gui.SC2:fuelLevel=§7Hladina paliva
+# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7Nemas zadne telo voziku
 gui.SC2:invalidHullErrorShort=§7Telo voziku, ktere si sem dal neni telo voziku!
 gui.SC2:busyAssemblerError=§7Montazni stroj na voziky je zaneprazdnen!
 gui.SC2:departureBayError=§7Vozik je v odjezdove zatoce.
+# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7manazer
@@ -66,6 +72,8 @@ gui.SC2:cartAreaFirework=§7Ohnostroje
 gui.SC2:cartAreaBuckets=§7Kybliky (pro mlikovace)
 gui.SC2:cartAreaCakes=§7Dorty
 gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Tekutinovy
@@ -146,7 +154,9 @@ gui.SC2:sateSeeds=§7Zasoba seminek
 gui.SC2:stateBridge=§7Zasoba materialu na mosty
 gui.SC2:stateProjectiles=§7Zasoba projektilu
 gui.SC2:stateFertilizing=§7Zasoba hnojiva
+# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
+#
 gui.SC2:stateShield=§7Stit je aktivovan
 gui.SC2:stateChunk=§7Nacitac chunku je aktivovan
 gui.SC2:stateInvisibility=§7Neviditelnost je aktivovana

@@ -1,3 +1,7 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7矿车装配器
 gui.SC2:basicAssembleInstruction=§7请将一个矿车外壳放到外壳槽里，以开始装配一辆矿车。
@@ -13,10 +17,12 @@ gui.SC2:idleAssemblerMessage=§7装配机目前正在闲置中
 gui.SC2:modifyCart=§7更改矿车
 gui.SC2:assembleCart=§7装配矿车
 gui.SC2:fuelLevel=§7燃料剩余
+# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7你没有矿车外壳
 gui.SC2:invalidHullErrorShort=§7你所放入的外壳不是矿车外壳！
 gui.SC2:busyAssemblerError=§7装配机正在忙碌中！
 gui.SC2:departureBayError=§7成品槽里有一辆矿车。
+# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7管理器
@@ -66,6 +72,8 @@ gui.SC2:cartAreaFirework=§7烟花
 gui.SC2:cartAreaBuckets=§7桶（给挤奶工用的）
 gui.SC2:cartAreaCakes=§7蛋糕
 gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7液体
@@ -146,7 +154,9 @@ gui.SC2:sateSeeds=§7有种子供应
 gui.SC2:stateBridge=§7有桥梁供应
 gui.SC2:stateProjectiles=§7有抛射物供应
 gui.SC2:stateFertilizing=§7有肥料供应
+# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7有蛋糕供应
+#
 gui.SC2:stateShield=§7护盾是否激活
 gui.SC2:stateChunk=§7区块加载器是否激活
 gui.SC2:stateInvisibility=§7隐形核心是否激活

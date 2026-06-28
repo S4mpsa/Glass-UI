@@ -1,4 +1,5 @@
-# Gui
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
 gui.message.out.name=§7Uit
 gui.message.in.name=§7In
 gui.message.status.name=§7Status
@@ -51,7 +52,24 @@ gui.message.prelaunch=§7Voor Lancering Checklist
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-# Cotnainers
+gui.button.enableseal.name=§7Enable Seal
+gui.button.disableseal.name=§7Disable Seal
+gui.button.loaditems.name=§7Laad Items
+gui.button.stoploading.name=§7Stop Inladen
+gui.button.unloaditems.name=§7Unload Items
+gui.button.stopunloading.name=§7Stop Uitladen
+gui.button.createsstation.name=§7Maak een Ruimte Station
+gui.button.sendtodim.name=§7Send to Dimension
+gui.button.rename.name=§7Naam veranderen
+gui.button.loadfuel.name=§7Laad Brandstof
+gui.button.refine.name=§7Verfijn
+gui.button.stoprefine.name=§7Stop Raffinage
+gui.button.enable.name=§7Inschakelen
+gui.button.disable.name=§7Uitschakelen
+gui.button.hideDest.name=§7Verbergen
+gui.button.unhideDest.name=§7Tonen
+
+# CONTAINERS
 container.cargoloader.name=§7Cargo Loader
 container.cargounloader.name=§7Cargo Unloader
 container.fuelloader.name=§7Brandstof lader
@@ -90,32 +108,33 @@ gui.oxygenUse.desc=§7Zuurstof Gebruik
 
 gui.message.generating.name=§7Genereren
 
-gui.status.collecting.name=&#999999Verzamelen
-gui.status.generating.name=&#999999Genereren
-gui.status.notGenerating.name=&#999999Niet Genereren
-gui.status.hullHeat.name=&#999999Romp Warmte
+gui.status.collecting.name=§7Verzamelen
+gui.status.generating.name=§7Genereren
+gui.status.notGenerating.name=§7Niet Genereren
+gui.status.hullHeat.name=§7Romp Warmte
 
 gui.title.airLock.name=§7%s's Luchtsluis Controleur
 
-gui.status.unknown.name=§7Onbekend
+gui.status.unknown.name=§dOnbekend
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Alien Dorpeling
+entity.GalacticraftCore.Buggy.name=§7Buggy
+entity.GalacticraftCore.EvolvedCreeper.name=§7Geëvolueerde Creeper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Geëvolueerde Skeleton
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Geëvolueerde Skeleton Boss
+entity.GalacticraftCore.EvolvedSpider.name=§7Geëvolueerde Spin
+entity.GalacticraftCore.EvolvedZombie.name=§7Geëvolueerde Zombie
+entity.GalacticraftCore.Flag.name=§7Vlag
+entity.GalacticraftCore.GCFlag.name=§7Vlag
+entity.GalacticraftCore.GravityArrow.name=§7Pijl
+entity.GalacticraftCore.Lander.name=§7Ruimte Lander
+entity.GalacticraftCore.Meteor.name=§7Meteoor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteoor Brokstuk
+entity.GalacticraftCore.OxygenBubble.name=§7Zuurstof Bel
+entity.GalacticraftCore.ParaChest.name=§7Parakist
+entity.GalacticraftCore.Spaceship.name=§7Raket
 
 schematic.moonbuggy.name=§7Maan wagen
 schematic.rocketT1.name=§7Tier 1 Raket
-
-# Button
-# gui.button.enableseal.name=§7Enable Seal
-# gui.button.disableseal.name=§7Disable Seal
-# gui.button.loaditems.name=§7Load Items
-# gui.button.stoploading.name=§7Stop Loading
-# gui.button.unloaditems.name=§7Unload Items
-# gui.button.stopunloading.name=§7Stop Unloading
-# gui.button.createsstation.name=§7Create Space Station
-# gui.button.sendtodim.name=§7Send to Dimension
-# gui.button.rename.name=§7Rename
-# gui.button.loadfuel.name=§7Load Fuel
-# gui.button.refine.name=§7Refine
-# gui.button.stoprefine.name=§7Stop Refining
-# gui.button.enable.name=§7Enable
-# gui.button.disable.name=§7Disable
-# gui.button.hideDest.name=§7Hide
-# gui.button.unhideDest.name=§7Unhide
+schematic.rocketT2.name=§7Tier 2 Raket

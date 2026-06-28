@@ -1,5 +1,3 @@
-#lang-ae2thing
-
 ae2thing.gui.cell_link=§7Cell Link
 ae2thing.gui.pattern_modifier=§7Pattern Modifier
 ae2thing.gui.pattern_modifier.replace=§7Replace
@@ -13,6 +11,7 @@ ae2thing.gui.wireless_connector_terminal.color=§7Color
 ae2thing.gui.wireless_connector_terminal.channels_used=§7Channels used
 ae2thing.gui.wireless_connector_terminal.bind=§7Bind
 ae2thing.gui.wireless_connector_terminal.unbind=§7Unbind
+ae2thing.gui.wireless_connector_terminal.search_tooltip=§7§b§nSorting tags§r \n§d#§r - Search Position \n§6~§r - Search Color \n§a@b§r - Show Bound Wireless Connectors only \n§4@u§r - Show Unbound Wireless Connectors only \n§9@c§r - Show Clicked Wireless Connectors only \nTags are space separated and are combined w/ the AND operator.
 ae2thing.gui.wireless_connector_terminal.highlight=§7The wireless connector is now highlighted at %d,%d,%d dimension:%d
 ae2thing.gui.wireless_connector_terminal.in_other_dim=§7Wireless connector located at dimension: %d and cant be highlighted
 ae2thing.gui.fluid_packet_encoder=§7ME Fluid Packet Encoder

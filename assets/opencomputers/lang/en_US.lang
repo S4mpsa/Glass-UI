@@ -1,12 +1,9 @@
-#lang-opencomputers
-#sub-text
-
 oc:gui.Assembler.Collect=§7Collect output
 oc:gui.Assembler.Complexity=§7Complexity: %s/%s
 oc:gui.Assembler.InsertCase=§7Insert a base part
 oc:gui.Assembler.InsertCPU=§7Insert a CPU
 oc:gui.Assembler.InsertRAM=§7Insert some RAM
-oc:gui.Assembler.Progress=§7Progress: %s%% (&#999999%s§7)
+oc:gui.Assembler.Progress=§7Progress: %s%% (%s)
 
 oc:gui.Rack.Back=§7Back
 oc:gui.Rack.Bottom=§7Bottom
@@ -14,7 +11,7 @@ oc:gui.Rack.Left=§7Left
 oc:gui.Rack.None=§7None
 oc:gui.Rack.Right=§7Right
 oc:gui.Rack.Enabled=§7Enabled
-oc:gui.Rack.Disabled=§7Disabled
+oc:gui.Rack.Disabled=§4Disabled
 oc:gui.Rack.Top=§7Top
 
 oc:gui.Switch.TransferRate=§7Cycle rate

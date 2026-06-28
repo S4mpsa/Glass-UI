@@ -1,3 +1,7 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Lorenmonteur
 gui.SC2:basicAssembleInstruction=§7Um beginnen, eine Lore herzustellen, füge eine Hülle deiner Wahl in den Hüllenslot.
@@ -13,10 +17,12 @@ gui.SC2:idleAssemblerMessage=§7Der Lorenmonteur ist derzeit im Leerlauf.
 gui.SC2:modifyCart=§7Lore modifizieren
 gui.SC2:assembleCart=§7Lore herstellen
 gui.SC2:fuelLevel=§7Kraftstoffstand
+# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7Du hast keine Hülle!
 gui.SC2:invalidHullErrorShort=§7Die hinzugefügte Hülle ist keine Hülle!
 gui.SC2:busyAssemblerError=§7!Der Monteur ist beschäftigt!
 gui.SC2:departureBayError=§7Es befindet sich eine Lore im Abfahrtshafen.
+# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Manager
@@ -66,6 +72,8 @@ gui.SC2:cartAreaFirework=§7Feuerwerk
 gui.SC2:cartAreaBuckets=§7Eimer (für Melkmaschine)
 gui.SC2:cartAreaCakes=§7Kuchen
 gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Flüssigkeit
@@ -146,7 +154,9 @@ gui.SC2:sateSeeds=§7Hat Samenvorräte
 gui.SC2:stateBridge=§7HatBrückenmaterial
 gui.SC2:stateProjectiles=§7Hat Projektilvorräte
 gui.SC2:stateFertilizing=§7Hat Düngervorräte
+# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
+#
 gui.SC2:stateShield=§7Ist das Schild aktiv
 gui.SC2:stateChunk=§7Ist Chunklader aktiv
 gui.SC2:stateInvisibility=§7Ist Unsichtsbarkeitkern aktiv

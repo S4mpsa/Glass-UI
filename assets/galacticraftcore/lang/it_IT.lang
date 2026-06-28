@@ -1,4 +1,5 @@
-# Gui
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
 gui.message.out.name=§7Fuori
 gui.message.in.name=§7Dentro
 gui.message.status.name=§7Stato
@@ -51,7 +52,24 @@ gui.message.prelaunch=§7Lista di partenza
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Controllo termale
 
-# Cotnainers
+gui.button.enableseal.name=§7Attiva chiusira
+gui.button.disableseal.name=§7Disattiva chiusura
+gui.button.loaditems.name=§7Carica oggetti
+gui.button.stoploading.name=§7Ferma caricamento
+gui.button.unloaditems.name=§7Scarica oggetti
+gui.button.stopunloading.name=§7Ferma scaricamento
+gui.button.createsstation.name=§7Crea una stazione spaziale
+gui.button.sendtodim.name=§7Parti per la dimensione
+gui.button.rename.name=§7Rinomina
+gui.button.loadfuel.name=§7Carica benzina
+gui.button.refine.name=§7Raffina
+gui.button.stoprefine.name=§7Ferma in raffinamento
+gui.button.enable.name=§7Attiva
+gui.button.disable.name=§7Disattiva
+gui.button.hideDest.name=§7Nascondi
+gui.button.unhideDest.name=§7Rivela
+
+# CONTAINERS
 container.cargoloader.name=§7Cargo Loader
 container.cargounloader.name=§7Cargo Unloader
 container.fuelloader.name=§7Fuel Loader
@@ -90,32 +108,33 @@ gui.oxygenUse.desc=§7Uso dell'ossigeno
 
 gui.message.generating.name=§7Generando
 
-gui.status.collecting.name=&#999999Raccogliendo
-gui.status.generating.name=&#999999Generando
-gui.status.notGenerating.name=&#999999Non generando
-gui.status.hullHeat.name=&#999999Temperatura dello scafo
+gui.status.collecting.name=§7Raccogliendo
+gui.status.generating.name=§7Generando
+gui.status.notGenerating.name=§7Non generando
+gui.status.hullHeat.name=§7Temperatura dello scafo
 
 gui.title.airLock.name=§7Controller della chiusura ad aria di %s
 
-gui.status.unknown.name=§7Non conosciuto
+gui.status.unknown.name=§dNon conosciuto
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Paesano alieno
+entity.GalacticraftCore.Buggy.name=§7Rover
+entity.GalacticraftCore.EvolvedCreeper.name=§7Creeper evoluto
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Scheletro evoluto
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Scheletro-boss evoluto
+entity.GalacticraftCore.EvolvedSpider.name=§7Ragno evoluto
+entity.GalacticraftCore.EvolvedZombie.name=§7Zombie evoluto
+entity.GalacticraftCore.Flag.name=§7Bandiera
+entity.GalacticraftCore.GCFlag.name=§7Bandiera
+entity.GalacticraftCore.GravityArrow.name=§7Freccia
+entity.GalacticraftCore.Lander.name=§7Space Lander
+entity.GalacticraftCore.Meteor.name=§7Meteora
+entity.GalacticraftCore.MeteorChunk.name=§7Pezzo di meteorite
+entity.GalacticraftCore.OxygenBubble.name=§7Bolla di ossigeno
+entity.GalacticraftCore.ParaChest.name=§7Cassa del razzo
+entity.GalacticraftCore.Spaceship.name=§7Razzo di livello 1
 
 schematic.moonbuggy.name=§7Rover della luna
 schematic.rocketT1.name=§7Razzo di livello 1
-
-# Button
-# gui.button.enableseal.name=§7Enable Seal
-# gui.button.disableseal.name=§7Disable Seal
-# gui.button.loaditems.name=§7Load Items
-# gui.button.stoploading.name=§7Stop Loading
-# gui.button.unloaditems.name=§7Unload Items
-# gui.button.stopunloading.name=§7Stop Unloading
-# gui.button.createsstation.name=§7Create Space Station
-# gui.button.sendtodim.name=§7Send to Dimension
-# gui.button.rename.name=§7Rename
-# gui.button.loadfuel.name=§7Load Fuel
-# gui.button.refine.name=§7Refine
-# gui.button.stoprefine.name=§7Stop Refining
-# gui.button.enable.name=§7Enable
-# gui.button.disable.name=§7Disable
-# gui.button.hideDest.name=§7Hide
-# gui.button.unhideDest.name=§7Unhide
+schematic.rocketT2.name=§7Razzo di livello 2

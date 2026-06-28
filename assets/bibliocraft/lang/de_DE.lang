@@ -1,4 +1,5 @@
-# Cannot - Framed Chest
+FramedChest.name=§7Eingerahmte Truhe
+
 gui.painting.showFrame=§7Rahmen zeigen
 gui.painting.hideFrame=§7Rahmen verstecken
 gui.painting.scale=§7Größe

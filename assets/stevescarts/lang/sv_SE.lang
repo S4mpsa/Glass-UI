@@ -1,3 +1,7 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Vagnsverkstad
 gui.SC2:basicAssembleInstruction=§7Var vänlig och placera valfritt vagnsskrov på skrovplatsen för att börja skapa en vagn.
@@ -13,10 +17,12 @@ gui.SC2:idleAssemblerMessage=§7Vagnverkstaden används inte just nu
 gui.SC2:modifyCart=§7Modifiera vagnen
 gui.SC2:assembleCart=§7Konstruera vagnen
 gui.SC2:fuelLevel=§7Bränslenivå
+# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7Inget skrov!
 gui.SC2:invalidHullErrorShort=§7Skrovet du lagt i är inte ett riktigt skrov.
 gui.SC2:busyAssemblerError=§7Verkstaden jobbar redan!
 gui.SC2:departureBayError=§7Det finns en vagn i vagnsplaceraren.
+# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Hanterare
@@ -66,6 +72,8 @@ gui.SC2:cartAreaFirework=§7Fyrverkerier
 gui.SC2:cartAreaBuckets=§7Hinkar (för mjölkare)
 gui.SC2:cartAreaCakes=§7Tårtor
 gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Vätska
@@ -146,7 +154,9 @@ gui.SC2:sateSeeds=§7Har frön
 gui.SC2:stateBridge=§7Har broblock
 gui.SC2:stateProjectiles=§7Har projektiler
 gui.SC2:stateFertilizing=§7Har gödsel
+# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
+#
 gui.SC2:stateShield=§7Sköld aktiv
 gui.SC2:stateChunk=§7Chunkladdare aktiv
 gui.SC2:stateInvisibility=§7Osynlighetskärna aktiv

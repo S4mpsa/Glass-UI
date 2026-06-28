@@ -1,4 +1,5 @@
-# Gui
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
 gui.message.out.name=§7出
 gui.message.in.name=§7入
 gui.message.status.name=§7ステータス
@@ -51,7 +52,24 @@ gui.message.prelaunch=§7起動前のチェックリスト
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7熱コントローラ
 
-# Cotnainers
+gui.button.enableseal.name=§7密封を有効
+gui.button.disableseal.name=§7密封を無効
+gui.button.loaditems.name=§7アイテムを積み込む
+gui.button.stoploading.name=§7積み込みを停止
+gui.button.unloaditems.name=§7アイテムを取り出す
+gui.button.stopunloading.name=§7アンロードを停止
+gui.button.createsstation.name=§7スペースステーションを作成
+gui.button.sendtodim.name=§7ディメンションに送信
+gui.button.rename.name=§7名前変更
+gui.button.loadfuel.name=§7燃料を給油
+gui.button.refine.name=§7製錬
+gui.button.stoprefine.name=§7製錬を停止
+gui.button.enable.name=§7有効
+gui.button.disable.name=§7無効
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
 container.cargoloader.name=§7貨物積み込み機
 container.cargounloader.name=§7貨物取り出し機
 container.fuelloader.name=§7燃料給油機
@@ -90,32 +108,33 @@ gui.oxygenUse.desc=§7Oxygen Use
 
 gui.message.generating.name=§7生成中
 
-gui.status.collecting.name=&#999999収集中
-gui.status.generating.name=&#999999発電中
-gui.status.notGenerating.name=&#999999発電していない
-gui.status.hullHeat.name=&#999999船体温度
+gui.status.collecting.name=§7収集中
+gui.status.generating.name=§7発電中
+gui.status.notGenerating.name=§7発電していない
+gui.status.hullHeat.name=§7船体温度
 
 gui.title.airLock.name=§7%s's Air Lock Controller
 
-gui.status.unknown.name=§7不明
+gui.status.unknown.name=§d不明
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7宇宙の村人
+entity.GalacticraftCore.Buggy.name=§7バギー
+entity.GalacticraftCore.EvolvedCreeper.name=§7宇宙のクリーパー
+entity.GalacticraftCore.EvolvedSkeleton.name=§7宇宙のスケルトン
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7スケルトンキング
+entity.GalacticraftCore.EvolvedSpider.name=§7宇宙のクモ
+entity.GalacticraftCore.EvolvedZombie.name=§7宇宙のゾンビ
+entity.GalacticraftCore.Flag.name=§7旗
+entity.GalacticraftCore.GCFlag.name=§7旗
+entity.GalacticraftCore.GravityArrow.name=§7矢
+entity.GalacticraftCore.Lander.name=§7ランダー
+entity.GalacticraftCore.Meteor.name=§7流星
+entity.GalacticraftCore.MeteorChunk.name=§7流星チャンク
+entity.GalacticraftCore.OxygenBubble.name=§7酸素バブル
+entity.GalacticraftCore.ParaChest.name=§7パラシュートチェスト
+entity.GalacticraftCore.Spaceship.name=§7レベル 1 ロケット
 
 schematic.moonbuggy.name=§7ムーンバギー
 schematic.rocketT1.name=§7レベル 1 宇宙機
-
-# Button
-# gui.button.enableseal.name=§7Enable Seal
-# gui.button.disableseal.name=§7Disable Seal
-# gui.button.loaditems.name=§7Load Items
-# gui.button.stoploading.name=§7Stop Loading
-# gui.button.unloaditems.name=§7Unload Items
-# gui.button.stopunloading.name=§7Stop Unloading
-# gui.button.createsstation.name=§7Create Space Station
-# gui.button.sendtodim.name=§7Send to Dimension
-# gui.button.rename.name=§7Rename
-# gui.button.loadfuel.name=§7Load Fuel
-# gui.button.refine.name=§7Refine
-# gui.button.stoprefine.name=§7Stop Refining
-# gui.button.enable.name=§7Enable
-# gui.button.disable.name=§7Disable
-# gui.button.hideDest.name=§7Hide
-# gui.button.unhideDest.name=§7Unhide
+schematic.rocketT2.name=§7レベル 2 宇宙機

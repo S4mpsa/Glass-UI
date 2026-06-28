@@ -1,17 +1,17 @@
-# Internal Blocks
-gui.tile.blockThermalMonitor.name.title=§7Termal Monitör
-gui.tile.blockIndustrialAlarm.name.title=§7Endüstriyel Alarm
-gui.tile.blockHowlerAlarm.name.title=§7Güçlü Alarm
-gui.tile.blockRemoteThermo.name.title=§7Uzak Termal Monitör
-gui.tile.blockInfoPanel.name.title=§7Endüstriyel Bilgi Paneli
-gui.tile.blockAdvancedInfoPanel.name.title=§7Gelişmiş Bilgi Paneli
-gui.tile.blockEnergyCounter.name.title=§7Enerji Counter
-gui.tile.blockAverageCounter.name.title=§7Average Counter
-gui.tile.blockRangeTrigger.name.title=§7Range Trigger
+#Internal Blocks
+tile.blockThermalMonitor.name=§7Termal Monitör
+tile.blockIndustrialAlarm.name=§7Endüstriyel Alarm
+tile.blockHowlerAlarm.name=§7Güçlü Alarm
+tile.blockRemoteThermo.name=§7Uzak Termal Monitör
+tile.blockInfoPanel.name=§7Endüstriyel Bilgi Paneli
+tile.blockAdvancedInfoPanel.name=§7Gelişmiş Bilgi Paneli
+tile.blockEnergyCounter.name=§7Enerji Counter
+tile.blockAverageCounter.name=§7Average Counter
+tile.blockRangeTrigger.name=§7Range Trigger
 
 gui.optional.numbers=§7
 
-# Original Screen Messages
+#Original Screen Messages
 msg.nc.ScreenColor=§7Ekran Rengi
 msg.nc.TextColor=§7Yazı Rengi
 msg.nc.InfoPanelOutput=§7ÇıkışGücü: %sEU/t

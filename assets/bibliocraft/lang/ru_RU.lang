@@ -1,4 +1,5 @@
-# Cannot - Framed Chest
+FramedChest.name=§7Каркасный сундук
+
 gui.painting.showFrame=§7Показать рамку
 gui.painting.hideFrame=§7Спрятать рамку
 gui.painting.scale=§7Размер

@@ -1,5 +1,4 @@
 compartbinniecore.gui.slot.slot=§7Slot
-
 binniecore.gui.slot.input=§7Приёмный слот
 binniecore.gui.slot.process=§7Рабочий слот
 binniecore.gui.slot.output=§7Выдающий слот
@@ -52,7 +51,7 @@ binniecore.gui.design=§7Дизайн
 
 binniecore.gui.fieldKit=§7Полевая лаборатория
 binniecore.gui.tooltip.paper=§7Бумага
-binniecore.gui.tooltip.noPaper=&#EFC62FНет бумаги!
+binniecore.gui.tooltip.noPaper=§cНет бумаги!
 
 binniecore.machine.storage.compartment.title=§7Compartment
 binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
@@ -64,11 +63,3 @@ binniecore.machine.storage.compartmentGold.title=§7Gold Compartment
 binniecore.machine.storage.sort=§7Сортировка А-Я
 binniecore.machine.storage.filterItems=§7Включая предметы
 binniecore.machine.storage.filterBlocks=§7Вклюячая блоки
-
-binniecore.machine.storage.search=§7Поиск
-binniecore.machine.storage.tab.properties=§7Свойства вкладки
-binniecore.machine.storage.tab.name=§7Название:
-binniecore.machine.storage.tab.icon=§7Иконка:
-binniecore.machine.storage.tab.color=§7Цвет:
-
-binniecore.gui.genesis=§7Генезис

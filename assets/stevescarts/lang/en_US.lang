@@ -1,4 +1,6 @@
-#lang-stevescarts
+# ======================================
+				BLOCK GUI
+# ======================================
 
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Cart Assembler
@@ -15,10 +17,12 @@ gui.SC2:idleAssemblerMessage=§7The assembler is currently idle
 gui.SC2:modifyCart=§7Modify cart
 gui.SC2:assembleCart=§7Assemble cart
 gui.SC2:fuelLevel=§7Fuel level
+# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7You have no hull
 gui.SC2:invalidHullErrorShort=§7The hull added is not a hull!
 gui.SC2:busyAssemblerError=§7The Assembler is busy!
 gui.SC2:departureBayError=§7There's a Cart in the Departure Bay.
+# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Manager
@@ -68,6 +72,8 @@ gui.SC2:cartAreaFirework=§7Firework
 gui.SC2:cartAreaBuckets=§7Buckets (for milker)
 gui.SC2:cartAreaCakes=§7Cakes
 gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Liquid
@@ -148,7 +154,9 @@ gui.SC2:sateSeeds=§7Have seed supplies
 gui.SC2:stateBridge=§7Have bridge supplies
 gui.SC2:stateProjectiles=§7Have projectile supplies
 gui.SC2:stateFertilizing=§7Have fertilizing supplies
+# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
+#
 gui.SC2:stateShield=§7Is shield active
 gui.SC2:stateChunk=§7Is chunk loader active
 gui.SC2:stateInvisibility=§7Is invisibility core active

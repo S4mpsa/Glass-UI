@@ -1,17 +1,17 @@
-# Internal Blocks
-gui.tile.blockThermalMonitor.name.title=§7Termisk Monitor
-gui.tile.blockIndustrialAlarm.name.title=§7Industriellt Alarm
-gui.tile.blockHowlerAlarm.name.title=§7Alarm
-gui.tile.blockRemoteThermo.name.title=§7Bärbar Termisk Monitor
-gui.tile.blockInfoPanel.name.title=§7Industrell Informations Panel
-gui.tile.blockAdvancedInfoPanel.name.title=§7Avancerad Informations Panel
-gui.tile.blockEnergyCounter.name.title=§7Energi Räknare
-gui.tile.blockAverageCounter.name.title=§7Genomsnittlig Räknare
-gui.tile.blockRangeTrigger.name.title=§7Intervalls Trigg
+#Internal Blocks
+tile.blockThermalMonitor.name=§7Termisk Monitor
+tile.blockIndustrialAlarm.name=§7Industriellt Alarm
+tile.blockHowlerAlarm.name=§7Alarm
+tile.blockRemoteThermo.name=§7Bärbar Termisk Monitor
+tile.blockInfoPanel.name=§7Industrell Informations Panel
+tile.blockAdvancedInfoPanel.name=§7Avancerad Informations Panel
+tile.blockEnergyCounter.name=§7Energi Räknare
+tile.blockAverageCounter.name=§7Genomsnittlig Räknare
+tile.blockRangeTrigger.name=§7Intervalls Trigg
 
 gui.optional.numbers=§7
 
-# Original Screen Messages
+#Original Screen Messages
 msg.nc.ScreenColor=§7Skärm Färg
 msg.nc.TextColor=§7Text Färg
 msg.nc.InfoPanelOutput=§7Effekt: %sEU/t

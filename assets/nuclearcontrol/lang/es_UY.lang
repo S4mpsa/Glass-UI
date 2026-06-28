@@ -1,17 +1,17 @@
-# Internal Blocks
-gui.tile.blockThermalMonitor.name.title=§7Monitor Térmico
-gui.tile.blockIndustrialAlarm.name.title=§7Alarma Industrial
-gui.tile.blockHowlerAlarm.name.title=§7Alarma Aulladora
-gui.tile.blockRemoteThermo.name.title=§7Monitor Térmico Remoto
-gui.tile.blockInfoPanel.name.title=§7Panel de Información Industrial
-gui.tile.blockAdvancedInfoPanel.name.title=§7Panel de Información Avanzado
-gui.tile.blockEnergyCounter.name.title=§7Contador de Energía
-gui.tile.blockAverageCounter.name.title=§7Contador Promedio
-gui.tile.blockRangeTrigger.name.title=§7Interruptor a Distancia
+#Internal Blocks
+tile.blockThermalMonitor.name=§7Monitor Térmico
+tile.blockIndustrialAlarm.name=§7Alarma Industrial
+tile.blockHowlerAlarm.name=§7Alarma Aulladora
+tile.blockRemoteThermo.name=§7Monitor Térmico Remoto
+tile.blockInfoPanel.name=§7Panel de Información Industrial
+tile.blockAdvancedInfoPanel.name=§7Panel de Información Avanzado
+tile.blockEnergyCounter.name=§7Contador de Energía
+tile.blockAverageCounter.name=§7Contador Promedio
+tile.blockRangeTrigger.name=§7Interruptor a Distancia
 
 gui.optional.numbers=§7
 
-# Original Screen Messages
+#Original Screen Messages
 msg.nc.ScreenColor=§7Color de Pantalla
 msg.nc.TextColor=§7Color del Texto
 msg.nc.InfoPanelOutput=§7Salida: %sEU/t

@@ -1,3 +1,7 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Monta Vag�es
 gui.SC2:basicAssembleInstruction=§7Para fazer um vag�o, adicionar um casco de vag�o da tua escolha em "Hull Slot"
@@ -13,10 +17,12 @@ gui.SC2:idleAssemblerMessage=§7O Monta vag�es est� a aguardar instru��e
 gui.SC2:modifyCart=§7Modificar vag�o
 gui.SC2:assembleCart=§7Montar Vag�o
 gui.SC2:fuelLevel=§7N�vel Combustivel
+# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7You have no hull
 gui.SC2:invalidHullErrorShort=§7The hull added is not a hull!
 gui.SC2:busyAssemblerError=§7The Assembler is busy!
 gui.SC2:departureBayError=§7There's a Cart in the Departure Bay.
+# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Gestor
@@ -66,6 +72,8 @@ gui.SC2:cartAreaFirework=§7Fogo de Artif�cio
 gui.SC2:cartAreaBuckets=§7Baldes (for milker)
 gui.SC2:cartAreaCakes=§7Bolo
 gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Gestor de Liquidos
@@ -146,7 +154,9 @@ gui.SC2:sateSeeds=§7Tem sementes
 gui.SC2:stateBridge=§7Tem material para pontes
 gui.SC2:stateProjectiles=§7Tem projecteis
 gui.SC2:stateFertilizing=§7Tem fertilizante
+# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
+#
 gui.SC2:stateShield=§7Est� o escudo ativo
 gui.SC2:stateChunk=§7Is chunk loader active
 gui.SC2:stateInvisibility=§7Est� o nucleo de invisibilidade ativo

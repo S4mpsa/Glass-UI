@@ -1,6 +1,4 @@
 # suppress inspection "UnusedProperty" for whole file
-#lang-jecalculation
-
 jecalculation.gui.craft.title=§7Crafting Calculator
 
 jecalculation.gui.common.default=§fDefault

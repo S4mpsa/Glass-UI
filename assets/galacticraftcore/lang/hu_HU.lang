@@ -1,4 +1,5 @@
-# Gui
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
 gui.message.out.name=§7Kifele
 gui.message.in.name=§7Befele
 gui.message.status.name=§7Állapot
@@ -51,7 +52,24 @@ gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-# Cotnainers
+gui.button.enableseal.name=§7Légnyomásfenntartás Indítása
+gui.button.disableseal.name=§7Légnyomásfenntartás Leállítása
+gui.button.loaditems.name=§7Eszközök Berakodása
+gui.button.stoploading.name=§7Berakodás Megszakítása
+gui.button.unloaditems.name=§7Kirakodás Megkezdése
+gui.button.stopunloading.name=§7KIrakodás Megszakítása
+gui.button.createsstation.name=§7Űrállomás létrehozása
+gui.button.sendtodim.name=§7Küldés A Világba
+gui.button.rename.name=§7Átnevezés
+gui.button.loadfuel.name=§7Üzemanyag Betöltése
+gui.button.refine.name=§7Finomítás
+gui.button.stoprefine.name=§7Finomítás Megszakítása
+gui.button.enable.name=§7Indítás
+gui.button.disable.name=§7Leállítás
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
 container.cargoloader.name=§7Teher-Berakodó
 container.cargounloader.name=§7Teher-Kirakodó
 container.fuelloader.name=§7Üzemanyag-Töltő
@@ -90,32 +108,33 @@ gui.oxygenUse.desc=§7Elhasznált Levegő
 
 gui.message.generating.name=§7Áramot Fejleszt
 
-gui.status.collecting.name=&#999999Kiválasztás Folyamatban
-gui.status.generating.name=&#999999Energiát Termel
-gui.status.notGenerating.name=&#999999Nem Üzemel
-gui.status.hullHeat.name=&#999999Kazán Befűtése:
+gui.status.collecting.name=§7Kiválasztás Folyamatban
+gui.status.generating.name=§7Energiát Termel
+gui.status.notGenerating.name=§7Nem Üzemel
+gui.status.hullHeat.name=§7Kazán Befűtése:
 
 gui.title.airLock.name=§7%s Légzsilip-Kezelőpultja.
 
-gui.status.unknown.name=§7Ismeretlen
+gui.status.unknown.name=§dIsmeretlen
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Idegen Falusi
+entity.GalacticraftCore.Buggy.name=§7Rover
+entity.GalacticraftCore.EvolvedCreeper.name=§7Fejlett Creeper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Fejlett Csontváz
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Fejlett Csontváz-Főgonosz
+entity.GalacticraftCore.EvolvedSpider.name=§7Fejlett Pók
+entity.GalacticraftCore.EvolvedZombie.name=§7Fejlett Zombi
+entity.GalacticraftCore.Flag.name=§7Zászló
+entity.GalacticraftCore.GCFlag.name=§7Zászló
+entity.GalacticraftCore.GravityArrow.name=§7Nyílvessző
+entity.GalacticraftCore.Lander.name=§7Leszállóegység
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteordarab
+entity.GalacticraftCore.OxygenBubble.name=§7Légbuborék
+entity.GalacticraftCore.ParaChest.name=§7Utánpótlás-Szállító Láda
+entity.GalacticraftCore.Spaceship.name=§71-Es Szintű Rakéta
 
 schematic.moonbuggy.name=§7Rover
 schematic.rocketT1.name=§71-Es Szintű Rakéta
-
-# Button
-# gui.button.enableseal.name=§7Enable Seal
-# gui.button.disableseal.name=§7Disable Seal
-# gui.button.loaditems.name=§7Load Items
-# gui.button.stoploading.name=§7Stop Loading
-# gui.button.unloaditems.name=§7Unload Items
-# gui.button.stopunloading.name=§7Stop Unloading
-# gui.button.createsstation.name=§7Create Space Station
-# gui.button.sendtodim.name=§7Send to Dimension
-# gui.button.rename.name=§7Rename
-# gui.button.loadfuel.name=§7Load Fuel
-# gui.button.refine.name=§7Refine
-# gui.button.stoprefine.name=§7Stop Refining
-# gui.button.enable.name=§7Enable
-# gui.button.disable.name=§7Disable
-# gui.button.hideDest.name=§7Hide
-# gui.button.unhideDest.name=§7Unhide
+schematic.rocketT2.name=§72-Es Szintű Rakéta
