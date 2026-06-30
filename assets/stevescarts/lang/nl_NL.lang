@@ -1,7 +1,3 @@
-# ======================================
-				BLOCK GUI
-# ======================================
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Kar Assemblage
 gui.SC2:basicAssembleInstruction=§7Om de assemblage te starten plaats je de Kar Frame in het Kar Frame Slot.
@@ -17,12 +13,10 @@ gui.SC2:idleAssemblerMessage=§7De Kar Assemblage staat te wachten
 gui.SC2:modifyCart=§7Modificeer kar
 gui.SC2:assembleCart=§7Assembleer kar
 gui.SC2:fuelLevel=§7Hoeveelheid brandstof
-# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7Je hebt geen Frame
 gui.SC2:invalidHullErrorShort=§7Ingevoerde Frame is geen Frame!
 gui.SC2:busyAssemblerError=§7De Assemblage is bezig!
 gui.SC2:departureBayError=§7Er staat een Kar in het Vertrek ruim.
-# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Beheerder
@@ -72,8 +66,6 @@ gui.SC2:cartAreaFirework=§7Vuurwerk
 gui.SC2:cartAreaBuckets=§7Emmers (for melker)
 gui.SC2:cartAreaCakes=§7Taarten
 gui.SC2:cartAreaCropsticks=§7Cropsticks
-
-
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Vloeistof
@@ -154,9 +146,7 @@ gui.SC2:sateSeeds=§7Heeft zaad benodigdheden
 gui.SC2:stateBridge=§7Heeft brug benodigdheden
 gui.SC2:stateProjectiles=§7Heeft projectiel benodigdheden
 gui.SC2:stateFertilizing=§7Heeft bemesting benodigdheden
-# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
-#
 gui.SC2:stateShield=§7Is schild actief
 gui.SC2:stateChunk=§7Is chunk lader actief
 gui.SC2:stateInvisibility=§7Is onzichtbaarheids kern actief

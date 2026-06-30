@@ -1,4 +1,6 @@
-# GUI
+#lang-nutrition
+
+# Gui
 gui.nutrition:nutrition_title=§7Nutrition
 gui.nutrition:updating=§7Updating...
 

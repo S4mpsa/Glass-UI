@@ -1,3 +1,23 @@
+## ColorUtils
+# RBG
+color.resource.tinker.materialName=AAAAAA
+color.resource.tinker.materialDurability=AAAAAA
+color.resource.tinker.materialHandleModifier1=AAAAAA
+color.resource.tinker.materialHandleModifier2=AAAAAA
+color.resource.tinker.materialMiningSpeed=AAAAAA
+color.resource.tinker.materialHarvestLevel=AAAAAA
+color.resource.tinker.materialAttack1=AAAAAA
+color.resource.tinker.materialAttack2=AAAAAA
+color.resource.tinker.materialReinforced=AAAAAA
+color.resource.tinker.materialStonebound=AAAAAA
+color.resource.tinker.materialAbility=AAAAAA
+color.resource.tinker.materialBow=AAAAAA
+color.resource.tinker.materialBowDrawSpeed=AAAAAA
+color.resource.tinker.materialBowFlightSpeedMax=AAAAAA
+color.resource.tinker.materialArrowMass=AAAAAA
+color.resource.tinker.materialArrowBreakChance=AAAAAA
+
+## Strings
 crafters.ToolStation=§7Werkzeugstation
 crafters.ToolForge=§7Werkzeugesse
 crafters.TinkerTable=§7Basteltisch
@@ -7,6 +27,8 @@ crafters.CraftingStation=§7Werkstation
 crafters.Smeltery=§7Schmelzerei
 
 inventory.PatternChest=§7Schablonenkiste
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Werkzeugteilbau
 gui.partcrafter2=§7Werkzeugteilbau
@@ -47,10 +69,6 @@ gui.toolstation21=§7Munition:
 gui.toolstation22=§7Bruchchance:
 gui.toolstation23=§7Max. Angriff:
 
-entity.TConstruct.EdibleSlime.name=§7Blauschleim
-entity.TConstruct.KingSlime.name=§7Königsschleim
-entity.TConstruct.Gardeslime.name=§7Guardeschleim
-entity.TConstruct.MiniGardy.name=§7Guardeschleim
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
+
+tconstruct.nei.projectilematerials=§7§lPfeil und Bogen

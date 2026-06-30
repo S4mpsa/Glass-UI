@@ -1,7 +1,3 @@
-# ======================================
-				BLOCK GUI
-# ======================================
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Montador de Carrinho
 gui.SC2:basicAssembleInstruction=§7Para começar a fazer o carrinho, por favor adicionar a carcaça do carrinho de sua escolha no slot para a carcaça.
@@ -17,12 +13,10 @@ gui.SC2:idleAssemblerMessage=§7O Montador está Ocioso
 gui.SC2:modifyCart=§7Modificar Carrinho
 gui.SC2:assembleCart=§7Montar Carrinho
 gui.SC2:fuelLevel=§7Nível de Combustível
-# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7Você não tem um carcaça
 gui.SC2:invalidHullErrorShort=§7A carcaça adicionada não é uma carcaça!
 gui.SC2:busyAssemblerError=§7O montador está ocupado!
 gui.SC2:departureBayError=§7Há um carrinho no compartimento ejetor.
-# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Gerenciador
@@ -72,8 +66,6 @@ gui.SC2:cartAreaFirework=§7Fogos de Artifício
 gui.SC2:cartAreaBuckets=§7Baldes (para ordenhadeira)
 gui.SC2:cartAreaCakes=§7Bolos
 gui.SC2:cartAreaCropsticks=§7Cropsticks
-
-
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Líquidos
@@ -154,9 +146,7 @@ gui.SC2:sateSeeds=§7Tem estoque de sementes
 gui.SC2:stateBridge=§7Tem estoque para ponte
 gui.SC2:stateProjectiles=§7Tem estoque de projéteis
 gui.SC2:stateFertilizing=§7Tem estoque de fertilizante
-# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
-#
 gui.SC2:stateShield=§7O escudo está ativo
 gui.SC2:stateChunk=§7O carregador de chunks está ativo
 gui.SC2:stateInvisibility=§7O núcleo de invisibilidade está ativo

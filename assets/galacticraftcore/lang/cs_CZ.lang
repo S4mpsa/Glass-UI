@@ -1,5 +1,4 @@
-# Galacticraft Core Language File = UNITED STATES ENGLISH
-# GUI
+# Gui
 gui.message.out.name=§7Výstup
 gui.message.in.name=§7Vstup
 gui.message.status.name=§7Stav
@@ -52,24 +51,7 @@ gui.message.prelaunch=§7Seznam předstartovní přípravy
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Teplotní regulátor
 
-gui.button.enableseal.name=§7Spustit uzávěr
-gui.button.disableseal.name=§7Vypnout uzávěr
-gui.button.loaditems.name=§7Naložit
-gui.button.stoploading.name=§7Zastavit
-gui.button.unloaditems.name=§7Vyložit
-gui.button.stopunloading.name=§7Zastavit
-gui.button.createsstation.name=§7Vybudovat vesmírnou stanici
-gui.button.sendtodim.name=§7Cestovat
-gui.button.rename.name=§7Přejmenovat
-gui.button.loadfuel.name=§7Natankovat
-gui.button.refine.name=§7Zpracovat
-gui.button.stoprefine.name=§7Zastavit
-gui.button.enable.name=§7Zapnout
-gui.button.disable.name=§7Vypnout
-gui.button.hideDest.name=§7Skrýt
-gui.button.unhideDest.name=§7Zobrazit
-
-# CONTAINERS
+# Cotnainers
 container.cargoloader.name=§7Nakladač
 container.cargounloader.name=§7Vykladač
 container.fuelloader.name=§7Palivové čerpadlo
@@ -108,33 +90,32 @@ gui.oxygenUse.desc=§7Využití kyslíku
 
 gui.message.generating.name=§7Vyrábí
 
-gui.status.collecting.name=§7Sbírá
-gui.status.generating.name=§7Vyrábí
-gui.status.notGenerating.name=§7Nevyrábí
-gui.status.hullHeat.name=§7Teplota pláště
+gui.status.collecting.name=&#999999Sbírá
+gui.status.generating.name=&#999999Vyrábí
+gui.status.notGenerating.name=&#999999Nevyrábí
+gui.status.hullHeat.name=&#999999Teplota pláště
 
 gui.title.airLock.name=§7%sův kontroler přechodové komory
 
-gui.status.unknown.name=§dNeznámý
-
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Mimozemšťan
-entity.GalacticraftCore.Buggy.name=§7Bugina
-entity.GalacticraftCore.EvolvedCreeper.name=§7Vyvinutý syčák
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Vyvinutý kostlivec
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Vyvinutý kostlivec (Boss)
-entity.GalacticraftCore.EvolvedSpider.name=§7Vyvinutý pavouk
-entity.GalacticraftCore.EvolvedZombie.name=§7Vyvinutý zombie
-entity.GalacticraftCore.Flag.name=§7Vlajka
-entity.GalacticraftCore.GCFlag.name=§7Vlajka
-entity.GalacticraftCore.GravityArrow.name=§7Šíp
-entity.GalacticraftCore.Lander.name=§7Přistávací modul
-entity.GalacticraftCore.Meteor.name=§7Meteorit
-entity.GalacticraftCore.MeteorChunk.name=§7Úlomek meteoritu
-entity.GalacticraftCore.OxygenBubble.name=§7Kyslíková bublina
-entity.GalacticraftCore.ParaChest.name=§7Truhla na padáku
-entity.GalacticraftCore.Spaceship.name=§7Raketa typ 1
+gui.status.unknown.name=§7Neznámý
 
 schematic.moonbuggy.name=§7Bugina
 schematic.rocketT1.name=§7Raketa typ 1
-schematic.rocketT2.name=§7Raketa typ 2
+
+# Button
+# gui.button.enableseal.name=§7Enable Seal
+# gui.button.disableseal.name=§7Disable Seal
+# gui.button.loaditems.name=§7Load Items
+# gui.button.stoploading.name=§7Stop Loading
+# gui.button.unloaditems.name=§7Unload Items
+# gui.button.stopunloading.name=§7Stop Unloading
+# gui.button.createsstation.name=§7Create Space Station
+# gui.button.sendtodim.name=§7Send to Dimension
+# gui.button.rename.name=§7Rename
+# gui.button.loadfuel.name=§7Load Fuel
+# gui.button.refine.name=§7Refine
+# gui.button.stoprefine.name=§7Stop Refining
+# gui.button.enable.name=§7Enable
+# gui.button.disable.name=§7Disable
+# gui.button.hideDest.name=§7Hide
+# gui.button.unhideDest.name=§7Unhide

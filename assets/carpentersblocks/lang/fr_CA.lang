@@ -1,1 +1,3 @@
-﻿tile.blockCarpentersSafe.name=§7Carpenter's Safe
+﻿#lang-carpentersblocks
+
+gui.tile.carpentersSafe.title=§7Coffre-fort de charpentier

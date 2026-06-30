@@ -1,7 +1,3 @@
-# ======================================
-				BLOCK GUI
-# ======================================
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Assemblatore di carrelli
 gui.SC2:basicAssembleInstruction=§7Per iniziare a costruire un carrello, inserisci una carena di tua scelta nello slot carena carrello.
@@ -17,12 +13,10 @@ gui.SC2:idleAssemblerMessage=§7L'assemblatore e' in stato di inattivita'
 gui.SC2:modifyCart=§7Modifica carrello
 gui.SC2:assembleCart=§7Assembla carrello
 gui.SC2:fuelLevel=§7Livello carburante
-# need beta 3 for these ones to show up (remove this note)
 gui.SC2:noHullError=§7You have no hull
 gui.SC2:invalidHullErrorShort=§7The hull added is not a hull!
 gui.SC2:busyAssemblerError=§7The Assembler is busy!
 gui.SC2:departureBayError=§7There's a Cart in the Departure Bay.
-# end of beta 3 requirement (remove this note)
 
 # Cargo manager and Liquid manager shared gui localization
 gui.SC2:manager=§7Gestore
@@ -72,8 +66,6 @@ gui.SC2:cartAreaFirework=§7Fuochi d'artificio
 gui.SC2:cartAreaBuckets=§7Secchi (per la mungitrice)
 gui.SC2:cartAreaCakes=§7Torte
 gui.SC2:cartAreaCropsticks=§7Cropsticks
-
-
 
 # Liquid manager gui localization
 gui.SC2:liquidManager=§7Liquidi
@@ -154,9 +146,7 @@ gui.SC2:sateSeeds=§7Ha rifornimenti di semi
 gui.SC2:stateBridge=§7Ha rifornimenti di materiale per il ponte
 gui.SC2:stateProjectiles=§7Ha rifornimenti di proiettili
 gui.SC2:stateFertilizing=§7Ha rifornimenti di fertilizzante
-# The cake one is a new one (you can remove this comment)
 gui.SC2:stateCake=§7Have cake supplies
-#
 gui.SC2:stateShield=§7Lo scudi e' attivo
 gui.SC2:stateChunk=§7Il carica-settori e' attivo
 gui.SC2:stateInvisibility=§7Il nucleo dell'invisibilita' e' attivo

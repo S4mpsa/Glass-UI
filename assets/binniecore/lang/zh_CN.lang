@@ -1,4 +1,5 @@
 compartbinniecore.gui.slot.slot=§7Slot
+
 binniecore.gui.slot.input=§7输入
 binniecore.gui.slot.process=§7加工
 binniecore.gui.slot.output=§7输出
@@ -51,7 +52,7 @@ binniecore.gui.design=§7设计图案
 
 binniecore.gui.fieldKit=§7实地考察工具包
 binniecore.gui.tooltip.paper=§7纸
-binniecore.gui.tooltip.noPaper=§c没有纸！
+binniecore.gui.tooltip.noPaper=&#EFC62F没有纸！
 
 binniecore.machine.storage.compartment.title=§7Compartment
 binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
@@ -63,3 +64,11 @@ binniecore.machine.storage.compartmentGold.title=§7Gold Compartment
 binniecore.machine.storage.sort=§7字母顺序排序
 binniecore.machine.storage.filterItems=§7包括物品
 binniecore.machine.storage.filterBlocks=§7包括方块
+
+binniecore.machine.storage.search=§7搜索
+binniecore.machine.storage.tab.properties=§7标签属性
+binniecore.machine.storage.tab.name=§7标签名：
+binniecore.machine.storage.tab.icon=§7标签图标：
+binniecore.machine.storage.tab.color=§7颜色：
+
+binniecore.gui.genesis=§7Genesis

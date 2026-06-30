@@ -1,3 +1,5 @@
+#lang-opensecurity
+
 gui.string.cardwriter=§7Card Writer
 gui.string.cardslot=§7Card Slot
 gui.string.kvm=§7KVM Switch Control

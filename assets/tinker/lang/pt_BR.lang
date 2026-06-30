@@ -1,3 +1,23 @@
+## ColorUtils
+# RBG
+color.resource.tinker.materialName=AAAAAA
+color.resource.tinker.materialDurability=AAAAAA
+color.resource.tinker.materialHandleModifier1=AAAAAA
+color.resource.tinker.materialHandleModifier2=AAAAAA
+color.resource.tinker.materialMiningSpeed=AAAAAA
+color.resource.tinker.materialHarvestLevel=AAAAAA
+color.resource.tinker.materialAttack1=AAAAAA
+color.resource.tinker.materialAttack2=AAAAAA
+color.resource.tinker.materialReinforced=AAAAAA
+color.resource.tinker.materialStonebound=AAAAAA
+color.resource.tinker.materialAbility=AAAAAA
+color.resource.tinker.materialBow=AAAAAA
+color.resource.tinker.materialBowDrawSpeed=AAAAAA
+color.resource.tinker.materialBowFlightSpeedMax=AAAAAA
+color.resource.tinker.materialArrowMass=AAAAAA
+color.resource.tinker.materialArrowBreakChance=AAAAAA
+
+## Strings
 crafters.ToolStation=§7Estação de Ferramenta
 crafters.ToolForge=§7Forja de Ferramentas
 crafters.TinkerTable=§7Mesa de Funilaria
@@ -7,6 +27,8 @@ crafters.CraftingStation=§7Estação de Trabalho
 crafters.Smeltery=§7Oficina de Fundição
 
 inventory.PatternChest=§7Baú de Moldes
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Criação de Partes de Ferramentas
 gui.partcrafter2=§7Construção de Partes de Ferramentas
@@ -47,10 +69,6 @@ gui.toolstation21=§7Munição:
 gui.toolstation22=§7Chance de quebra: 
 gui.toolstation23=§7Ataque Máximo: 
 
-entity.TConstruct.EdibleSlime.name=§7Slime-Azul
-entity.TConstruct.KingSlime.name=§7Slime Rei
-entity.TConstruct.Gardeslime.name=§7Slime-de-Jardim
-entity.TConstruct.MiniGardy.name=§7Slime-de-Jardim
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
+
+tconstruct.nei.projectilematerials=§7§lArco e Flecha

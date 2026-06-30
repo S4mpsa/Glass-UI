@@ -1,5 +1,4 @@
-FramedChest.name=§7프레인 체스트
-
+# Cannot - Framed Chest
 gui.painting.showFrame=§7프레임 보이기
 gui.painting.hideFrame=§7프레임 숨기기
 gui.painting.scale=§7크기

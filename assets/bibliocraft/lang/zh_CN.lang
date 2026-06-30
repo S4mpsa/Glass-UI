@@ -1,5 +1,4 @@
-FramedChest.name=§7镶框箱子
-
+# Cannot - Framed Chest
 gui.painting.showFrame=§7显示画框
 gui.painting.hideFrame=§7隐藏画框
 gui.painting.scale=§7比例

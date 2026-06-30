@@ -1,6 +1,8 @@
+#lang-architecturecraft
+
 # Container
 gui.architecturecraft.Sawbench=§7Sawbench
-gui.architecturecraft.Makes=§7makes
+gui.architecturecraft.Makes=§7%s makes %s
 
 # Pages
 gui.architecturecraft.Roofing=§7Roofing

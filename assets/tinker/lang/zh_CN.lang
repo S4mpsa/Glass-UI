@@ -1,3 +1,23 @@
+## ColorUtils
+# RBG
+color.resource.tinker.materialName=AAAAAA
+color.resource.tinker.materialDurability=AAAAAA
+color.resource.tinker.materialHandleModifier1=AAAAAA
+color.resource.tinker.materialHandleModifier2=AAAAAA
+color.resource.tinker.materialMiningSpeed=AAAAAA
+color.resource.tinker.materialHarvestLevel=AAAAAA
+color.resource.tinker.materialAttack1=AAAAAA
+color.resource.tinker.materialAttack2=AAAAAA
+color.resource.tinker.materialReinforced=AAAAAA
+color.resource.tinker.materialStonebound=AAAAAA
+color.resource.tinker.materialAbility=AAAAAA
+color.resource.tinker.materialBow=AAAAAA
+color.resource.tinker.materialBowDrawSpeed=AAAAAA
+color.resource.tinker.materialBowFlightSpeedMax=AAAAAA
+color.resource.tinker.materialArrowMass=AAAAAA
+color.resource.tinker.materialArrowBreakChance=AAAAAA
+
+## Strings
 crafters.ToolStation=§7工具组装台
 crafters.ToolForge=§7工具装配台
 crafters.TinkerTable=§7工匠工作台
@@ -7,6 +27,8 @@ crafters.CraftingStation=§7合成站
 crafters.Smeltery=§7冶炼炉
 
 inventory.PatternChest=§7模具箱
+inventory.PartChest=§7部件箱
+toolstation.partholder=§7部件箱
 
 gui.partcrafter1=§7合成工具部件
 gui.partcrafter2=§7锻造工具
@@ -47,10 +69,6 @@ gui.toolstation21=§7弹药:
 gui.toolstation22=§7损坏几率: 
 gui.toolstation23=§7最大攻击: 
 
-entity.TConstruct.EdibleSlime.name=§7蓝色史莱姆
-entity.TConstruct.KingSlime.name=§7史莱姆王
-entity.TConstruct.Gardeslime.name=§7史莱姆护卫
-entity.TConstruct.MiniGardy.name=§7迷你史莱姆护卫
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
+
+tconstruct.nei.projectilematerials=§7§l弓与箭

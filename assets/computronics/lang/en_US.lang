@@ -1,1 +1,3 @@
-tile.computronics.ticketMachine.name=§7Ticket Machine
+#lang-computronics
+
+gui.tile.computronics.ticketMachine.title=§7Ticket Machine

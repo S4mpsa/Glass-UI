@@ -1,6 +1,5 @@
-# ======================================
-#			COMPONENT TYPES
-# ======================================
+#lang-stevesfactory
+
 gui.sfm.TriggerShort=§7Trigger
 gui.sfm.TriggerLong=§7Trigger
 gui.sfm.InputShort=§7Input
@@ -36,10 +35,7 @@ gui.sfm.CamouflageLong=§7Camouflage Updater
 gui.sfm.SignShort=§7Sign
 gui.sfm.SignLong=§7Sign Updater
 
-# ======================================
-#			CONNECTION OPTIONS
-# ======================================
-
+# CONNECTION OPTIONS
 gui.sfm.ConnectionInput=§7Input
 gui.sfm.ConnectionOutput=§7Output
 gui.sfm.ConnectionInterval=§7Interval
@@ -56,11 +52,7 @@ gui.sfm.ConnectionWhileHighBlock=§7While high signal
 gui.sfm.ConnectionOnLowBlockPulse=§7On low pulse
 gui.sfm.ConnectionWhileLowBlock=§7While low signal
 
-
-# ======================================
-#			CONNECTION SETS
-# ======================================
-
+# CONNECTION SETS
 gui.sfm.ConnectionSetStandard=§7Standard
 gui.sfm.ConnectionSetInterval=§7On interval
 gui.sfm.ConnectionSetRedstone=§7Redstone controlled
@@ -76,10 +68,7 @@ gui.sfm.ConnectionSetOutputNode=§7Output Node
 gui.sfm.ConnectionSetInputNode=§7Input Node
 gui.sfm.ConnectionSetDynamic=§7Dynamic
 
-# ======================================
-#			COMPONENT MENUS
-# ======================================
-
+# COMPONENT MENUS
 gui.sfm.DetectorMenu=§7Update Detectors
 gui.sfm.RequireAllTargets=§7Require all targets
 gui.sfm.RequireOneTarget=§7Require one target
@@ -325,10 +314,7 @@ gui.sfm.TooltipAdjacent=§7Adjacent blocks
 gui.sfm.PriorityMoveFirst=§7Move before crafting
 gui.sfm.PriorityCraftFirst=§7Craft before moving
 
-# ======================================
-#		  OTHER MANAGER INTERFACE
-# ======================================
-
+# OTHER MANAGER INTERFACE
 gui.sfm.DeleteCommand=§7Delete [Drop command here]
 gui.sfm.CreateCommand=§7Create
 gui.sfm.MaximumComponentError=§7Maximum component amount reached
@@ -348,9 +334,7 @@ gui.sfm.Limitless=§7Remove all limits of this manager. Without this selected th
 gui.sfm.EnlargeInterfaces=§7Enlarge interfaces to fit the full screen, unless they do that already. (Interfaces are always made smaller to fit the screen regardless of this setting.)
 gui.sfm.AutoMoveFirst=§7Set the default option for new crafting commands to prioritize movement.
 
-# ======================================
-#		 ADVANCED RELAY INTERFACE
-# ======================================
+# ADVANCED RELAY INTERFACE
 gui.sfm.GivePermission=§7Give permission
 gui.sfm.RevokePermission=§7Revoke permission
 gui.sfm.ActivateUser=§7Activate
@@ -376,3 +360,5 @@ gui.sfm.PermissionRestricted=§7Restricted access
 gui.sfm.PermissionCreative=§7Creative access
 gui.sfm.PermissionInventory=§7Inventory access
 gui.sfm.PermissionDenied=§7No access
+
+gui.sfm.CommandNameFormat=§7%s

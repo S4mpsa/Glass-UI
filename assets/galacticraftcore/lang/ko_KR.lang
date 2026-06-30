@@ -1,5 +1,4 @@
-# Galacticraft Core Language File = UNITED STATES ENGLISH
-# GUI
+# Gui
 gui.message.out.name=§7출력
 gui.message.in.name=§7입력
 gui.message.status.name=§7상태
@@ -52,24 +51,7 @@ gui.message.prelaunch=§7발사전 체크리스트
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7열 제어
 
-gui.button.enableseal.name=§7밀봉 가동하기
-gui.button.disableseal.name=§7밀봉 파기하기
-gui.button.loaditems.name=§7아이템 적재하기
-gui.button.stoploading.name=§7적재 멈추기
-gui.button.unloaditems.name=§7아이템 적하하기
-gui.button.stopunloading.name=§7적하 멈추기
-gui.button.createsstation.name=§7우주정거장 만들기
-gui.button.sendtodim.name=§7해당 세계로 보내기
-gui.button.rename.name=§7이름 바꾸기
-gui.button.loadfuel.name=§7연료 채우기
-gui.button.refine.name=§7정제하기
-gui.button.stoprefine.name=§7정제 멈추기
-gui.button.enable.name=§7가동하기
-gui.button.disable.name=§7멈추기
-gui.button.hideDest.name=§7숨기기
-gui.button.unhideDest.name=§7보이기
-
-# CONTAINERS
+# Cotnainers
 container.cargoloader.name=§7화물 적재기
 container.cargounloader.name=§7화물 적하기
 container.fuelloader.name=§7연료 적재기
@@ -108,33 +90,32 @@ gui.oxygenUse.desc=§7산소 사용
 
 gui.message.generating.name=§7생성중
 
-gui.status.collecting.name=§7충전 중
-gui.status.generating.name=§7생산중
-gui.status.notGenerating.name=§7생산중이 아님
-gui.status.hullHeat.name=§7선체 온도
+gui.status.collecting.name=&#999999충전 중
+gui.status.generating.name=&#999999생산중
+gui.status.notGenerating.name=&#999999생산중이 아님
+gui.status.hullHeat.name=&#999999선체 온도
 
 gui.title.airLock.name=§7%s's 에어락 제어기
 
-gui.status.unknown.name=§d확인불가
-
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7외계주민
-entity.GalacticraftCore.Buggy.name=§7버기
-entity.GalacticraftCore.EvolvedCreeper.name=§7진화한 크리퍼
-entity.GalacticraftCore.EvolvedSkeleton.name=§7진화한 스켈레톤
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7진화한 스켈레톤 보스
-entity.GalacticraftCore.EvolvedSpider.name=§7진화한 거미
-entity.GalacticraftCore.EvolvedZombie.name=§7진화한 좀비
-entity.GalacticraftCore.Flag.name=§7깃발
-entity.GalacticraftCore.GCFlag.name=§7깃발
-entity.GalacticraftCore.GravityArrow.name=§7화살
-entity.GalacticraftCore.Lander.name=§7착륙기
-entity.GalacticraftCore.Meteor.name=§7운석
-entity.GalacticraftCore.MeteorChunk.name=§7운석 덩어리
-entity.GalacticraftCore.OxygenBubble.name=§7산소 기포
-entity.GalacticraftCore.ParaChest.name=§7낙하상자
-entity.GalacticraftCore.Spaceship.name=§71티어 로켓
+gui.status.unknown.name=§7확인불가
 
 schematic.moonbuggy.name=§7월면차
 schematic.rocketT1.name=§71티어 로켓
-schematic.rocketT2.name=§72티어 로켓
+
+# Button
+# gui.button.enableseal.name=§7Enable Seal
+# gui.button.disableseal.name=§7Disable Seal
+# gui.button.loaditems.name=§7Load Items
+# gui.button.stoploading.name=§7Stop Loading
+# gui.button.unloaditems.name=§7Unload Items
+# gui.button.stopunloading.name=§7Stop Unloading
+# gui.button.createsstation.name=§7Create Space Station
+# gui.button.sendtodim.name=§7Send to Dimension
+# gui.button.rename.name=§7Rename
+# gui.button.loadfuel.name=§7Load Fuel
+# gui.button.refine.name=§7Refine
+# gui.button.stoprefine.name=§7Stop Refining
+# gui.button.enable.name=§7Enable
+# gui.button.disable.name=§7Disable
+# gui.button.hideDest.name=§7Hide
+# gui.button.unhideDest.name=§7Unhide

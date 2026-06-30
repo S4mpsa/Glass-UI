@@ -1,5 +1,4 @@
-FramedChest.name=§7Baú Encaixilhado
-
+# Cannot - Framed Chest
 gui.painting.showFrame=§7Mostrar Borda
 gui.painting.hideFrame=§7Esconder Borda
 gui.painting.scale=§7Escala

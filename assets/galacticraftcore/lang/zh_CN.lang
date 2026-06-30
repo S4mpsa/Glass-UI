@@ -1,5 +1,4 @@
-# Galacticraft Core Language File = UNITED STATES ENGLISH
-# GUI
+# Gui
 gui.message.out.name=§7输出
 gui.message.in.name=§7输入
 gui.message.status.name=§7状态
@@ -52,24 +51,7 @@ gui.message.prelaunch=§7发射前检查表
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7温度控制器
 
-gui.button.enableseal.name=§7密闭启动
-gui.button.disableseal.name=§7禁用密闭
-gui.button.loaditems.name=§7载入物品
-gui.button.stoploading.name=§7停止载入
-gui.button.unloaditems.name=§7卸载物品
-gui.button.stopunloading.name=§7停止卸载
-gui.button.createsstation.name=§7创建空间站
-gui.button.sendtodim.name=§7传送到维度
-gui.button.rename.name=§7重命名
-gui.button.loadfuel.name=§7加载燃料
-gui.button.refine.name=§7精炼
-gui.button.stoprefine.name=§7停止精炼
-gui.button.enable.name=§7开启
-gui.button.disable.name=§7关闭
-gui.button.hideDest.name=§7隐藏
-gui.button.unhideDest.name=§7显示
-
-# CONTAINERS
+# Cotnainers
 container.cargoloader.name=§7货物装载器
 container.cargounloader.name=§7货物卸载器
 container.fuelloader.name=§7燃料注入器
@@ -108,33 +90,32 @@ gui.oxygenUse.desc=§7氧气使用
 
 gui.message.generating.name=§7生成中
 
-gui.status.collecting.name=§7正在收集
-gui.status.generating.name=§7正在产生
-gui.status.notGenerating.name=§7未产生
-gui.status.hullHeat.name=§7船体热量
+gui.status.collecting.name=&#999999正在收集
+gui.status.generating.name=&#999999正在产生
+gui.status.notGenerating.name=&#999999未产生
+gui.status.hullHeat.name=&#999999船体热量
 
 gui.title.airLock.name=§7%s的气闸控制器
 
-gui.status.unknown.name=§d未知
-
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7外星村民
-entity.GalacticraftCore.Buggy.name=§7星球车
-entity.GalacticraftCore.EvolvedCreeper.name=§7进化爬行者
-entity.GalacticraftCore.EvolvedSkeleton.name=§7进化骷髅
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7进化骷髅之王
-entity.GalacticraftCore.EvolvedSpider.name=§7进化蜘蛛
-entity.GalacticraftCore.EvolvedZombie.name=§7进化僵尸
-entity.GalacticraftCore.Flag.name=§7旗帜
-entity.GalacticraftCore.GCFlag.name=§7旗
-entity.GalacticraftCore.GravityArrow.name=§7箭
-entity.GalacticraftCore.Lander.name=§7登陆舱
-entity.GalacticraftCore.Meteor.name=§7陨石
-entity.GalacticraftCore.MeteorChunk.name=§7陨石块
-entity.GalacticraftCore.OxygenBubble.name=§7氧气气泡
-entity.GalacticraftCore.ParaChest.name=§7伞降箱
-entity.GalacticraftCore.Spaceship.name=§7火箭(1阶)
+gui.status.unknown.name=§7未知
 
 schematic.moonbuggy.name=§7星球车
 schematic.rocketT1.name=§7火箭(1阶)
-schematic.rocketT2.name=§7火箭(2阶)
+
+# Button
+# gui.button.enableseal.name=§7Enable Seal
+# gui.button.disableseal.name=§7Disable Seal
+# gui.button.loaditems.name=§7Load Items
+# gui.button.stoploading.name=§7Stop Loading
+# gui.button.unloaditems.name=§7Unload Items
+# gui.button.stopunloading.name=§7Stop Unloading
+# gui.button.createsstation.name=§7Create Space Station
+# gui.button.sendtodim.name=§7Send to Dimension
+# gui.button.rename.name=§7Rename
+# gui.button.loadfuel.name=§7Load Fuel
+# gui.button.refine.name=§7Refine
+# gui.button.stoprefine.name=§7Stop Refining
+# gui.button.enable.name=§7Enable
+# gui.button.disable.name=§7Disable
+# gui.button.hideDest.name=§7Hide
+# gui.button.unhideDest.name=§7Unhide

@@ -1,3 +1,5 @@
+#lang-gtnhcommunitymod
+
 # TwistSpaceTechnology
 StrangeMatterAggregator.UI.Running.ConfigurationDescription.text=§7Set SpaceTime Maintenance Fluid Tier: 1-Molten SpaceTime, 2-Molten Universium, 3-MagnetoConstrainedStarMatter
 StrangeMatterAggregator.UI.Structure.ConfigurationDescription.text=§7The machine will build the oscillator ring, constraintor ring, and merger ring in a set number of cycles.

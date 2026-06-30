@@ -1,5 +1,4 @@
-FramedChest.name=§7Framed Chest
-
+# Cannot - Framed Chest
 gui.painting.showFrame=§7Mostrar marco
 gui.painting.hideFrame=§7Esconder marco
 gui.painting.scale=§7Escala

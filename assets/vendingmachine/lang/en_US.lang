@@ -1,7 +1,20 @@
-vendingmachine.gui.requirementHeader=§7Requirements:
+#lang-vendingmachine
+#colorUtils
+#error
 
-vendingmachine.gui.neiColor.conditionDefault=AAAAAA
-vendingmachine.gui.neiColor.conditionSatisfied=7AC25F
-vendingmachine.gui.neiColor.conditionUnsatisfied=AAAAAA
+## ColorUtils
+# RGB
+color.resource.vendingmachine.displayText=AAAAAA
+color.resource.vendingmachine.displayTextCooldown=C62140
+color.resource.vendingmachine.textDefault=AAAAAA
+color.resource.vendingmachine.textColorConditionDefault=AAAAAA
+color.resource.vendingmachine.textColorConditionSatisfied=7AC25F
+color.resource.vendingmachine.textColorConditionUnsatisfied=AAAAAA
+color.resource.vendingmachine.tradeDisplayText=B13E53
 
-gt.blockmachines.multimachine.vendingmachine.name.gui=§7Vending Machine
+# ARGB
+color.resource.vendingmachine.volumeSliderBackground=FF2C2C2C
+
+## Strings
+vendingmachine.gui.error.incomplete_structure=&#C62140Incomplete Structure.
+vendingmachine.gui.error.player_using=&#C62140Someone is using the vending machine at the moment.

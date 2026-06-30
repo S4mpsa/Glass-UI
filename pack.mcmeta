@@ -1,12 +1,12 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "§8GTNH v2.9.X §f/ v1.1 by §cSampsa  §f/ Shadow.UI by §aRanzu"
+    "description": "§8GTNH v2.9.X §f/ v1.2 by §cSampsa  §f/ Shadow.UI by §aRanzu"
   },
   "gtnh_resource_pack_updater": {
     "schema": 1,
     "pack_name": "GlassUI",
-    "pack_version": "1.1",
+    "pack_version": "1.2",
     "pack_game_version": "2.9.X",
     "source": {
       "type": "github_releases",

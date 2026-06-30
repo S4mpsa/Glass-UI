@@ -1,2 +1,4 @@
-item.spiceoflife.lunchbox.name=§7Lunch Box
-item.spiceoflife.lunchbag.name=§7Lunch Bag
+#lang-spiceoflife
+
+spiceoflife.gui.title.lunchbox=§7Lunch Box
+spiceoflife.gui.title.lunchbag=§7Lunch Bag

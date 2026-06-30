@@ -1,5 +1,4 @@
-FramedChest.name=§7Rámovaná truhla
-
+# Cannot - Framed Chest
 gui.painting.showFrame=§7Zobraz rám
 gui.painting.hideFrame=§7Skryj rám
 gui.painting.scale=§7Velikost

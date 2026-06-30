@@ -1,5 +1,4 @@
-FramedChest.name=§7Armação de Baú
-
+# Cannot - Framed Chest
 gui.painting.showFrame=§7Mostrar Moldura
 gui.painting.hideFrame=§7Esconder Moldura
 gui.painting.scale=§7Escala
